@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(45deg, #ff9a9e 0%, #fad0c4 100%);
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.contenedor-principal {
+    max-width: 1200px;
+    margin: 0 auto;
+    background: white;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 15px 35px rgba(0,0,0,0.1);
+}
+
+.cabecera {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    text-align: center;
+    padding: 40px 20px;
+}
+`
+.cabecera h1 {
+    font-size: 2.8em;
+    margin-bottom: 10px;
+}
+
+.cabecera p {
+    font-size: 1.2em;
+    opacity: 0.9;
+}
+
+.contenido {
+    padding: 40px;
+}
+
+.seccion-bordes, .seccion-flexbox, .seccion-centrado {
+    margin-bottom: 40px;
+}
+
+h2 {
+    color: #2c3e50;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 1.8em;
+}
+
+/* Estilos para bordes */
+.caja {
+    display: inline-block;
+    padding: 20px;
+    margin: 10px;
+    background: #3498db;
+    color: white;
+    text-align: center;
+    min-width: 150px;
+
+}
+
+.borde-simple {
+    border: 3px solid #2980b9;
+}
+
+.borde-redondeado {
+    border: 3px solid #e74c3c;
+    border-radius: 15px;
+}
+
+.borde-sombra {
+    border: 2px solid #27ae60;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+    border-radius: 8px;
+}
+
+/* Flexbox */
+.contenedor-flex {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 15px;
+    background: #ecf0f1;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.item-flex {
+    background: #9b59b6;
+    color: white;
+    padding: 25px;
+    border-radius: 8px;
+    flex: 1;
+    min-width: 150px;
+    text-align: center;
+    transition: all 0.3s ease;
+}
+
+.item-flex:hover {
+    background: #8e44ad;
+    transform: scale(1.05);
+}
+
+/* Centrado */
+.seccion-centrado {
+    background: #34495e;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.caja-centrada {
+    width: 200px;
+    height: 200px;
+    background: #e74c3c;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin: 0 auto;
+    font-weight: bold;
+    text-align: center;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+}
