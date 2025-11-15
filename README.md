@@ -8,32 +8,32 @@ requiere descargas!** Solo abre tu navegador web.
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
 **📂 Repositorio de código fuente**: [https://github.com/atomdragon1318/Fundamentos-de-Desarrollo-Web](https://github.com/atomdragon1318/Fundamentos-de-Desarrollo-Web) 
 ## Secuencia de la lección
-### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
+### Lección 1: ¿Qué es el desarrollo web? (4:12 minutos)
 - **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=I823RhbxRkw)
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
 - **Empieza a programar**: [Open CodePen](https://codepen.io/Italo-Verona/pen/KwzMvay)
-### Lección 2: Introducción a HTML (10 minutos)
+### Lección 2: Introducción a HTML (9:15 minutos)
 - **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=dunjEvC6ZBQ)
 - **Consejos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
 - **Práctica**: [Clic para programar](https://codepen.io/Italo-Verona/pen/GgZqvWo) 👈 **¡No necesitas registrarte!**
-### Lección 3: Añadir más elementos HTML (8 minutos)
+### Lección 3: Añadir más elementos HTML (7:10 minutos)
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=IiwgO4tscgE)
 - **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`.
 - **Práctica**: [Clic para programar](https://codepen.io/Italo-Verona/pen/ByKzdzL) 👈 **¡Comienza al instante!**
-### Lección 4: Introducción a CSS (12 minutos)
+### Lección 4: Introducción a CSS (14:24 minutos)
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=PsKwHTgj-RY)
 - **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`.
 - **Práctica**: [Aplicar estilo con un clic](https://codepen.io/Italo-Verona/pen/wBGWqme) 👈 **¡No es necesario registrarse!**
-### Lección 5: Crear una página web sencilla (15 minutos)
+### Lección 5: Crear una página web sencilla (15:34 minutos)
 - **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=1L_RdzM6394)
 - **Consejos clave**: Aplicar estilos y depurar errores.
 - **Centrando Elementos**: [Centrando Elementos](https://codepen.io/Italo-Verona/pen/LENZjEa) 👈 **¡Guarda y comparte!**
-### Lección 6: Consejos y Próximos Pasos (10 minutos)
+### Lección 6: Consejos y Próximos Pasos (10:19 minutos)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
 - **Enlace**: [Ver Lección](https://www.youtube.com/watch?v=ya_GdgVLdb4)
 - **Consejos Clave**: Valida el código, explora la Documentación Web de MDN.
