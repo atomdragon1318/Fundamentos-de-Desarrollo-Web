@@ -6,7 +6,7 @@ requiere descargas!** Solo abre tu navegador web.
 **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
 **Prerrequisitos**: Ninguno
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
-**📂 Repositorio de código fuente**: [https://github.com/yourusername/webdev-courseteamname](https://github.com/yourusername/webdev-course-teamname)
+**📂 Repositorio de código fuente**: [https://github.com/atomdragon1318/Fundamentos-de-Desarrollo-Web](https://github.com/atomdragon1318/Fundamentos-de-Desarrollo-Web) 
 ## Secuencia de la lección
 ### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
 - **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
@@ -41,13 +41,15 @@ requiere descargas!** Solo abre tu navegador web.
 ## Recursos Adicionales
 - **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/yourusername/webdev-course-teamname)
 - **Todas las Actividades Prácticas**:
-| Lección # | Actividad | Empezar a Programar |
-|----------|----------|-------------|
-| 1 | Explorar Sitios Web | [CodePen](https://codepen.io/your-lesson1) |
-| 2 | Primera página HTML | [CodePen](https://codepen.io/your-lesson2) |
-| 3 | Añadir imágenes | [JSFiddle](https://jsfiddle.net/your-lesson3) |
-| 4 | Estilo de la página | [CodePen](https://codepen.io/your-lesson4) |
-| 5 | Página de perfil | [Replit](https://replit.com/@your-lesson5) |
+
+| Lección # | Actividad           | Empezar a Programar                           |
+|-----------|---------------------|-----------------------------------------------| 
+| 1         | Explorar Sitios Web | [CodePen](https://codepen.io/your-lesson1)    |
+| 2         | Primera página HTML | [CodePen](https://codepen.io/your-lesson2)    |
+| 3         | Añadir imágenes     | [JSFiddle](https://jsfiddle.net/your-lesson3) |
+| 4         | Estilo de la página | [CodePen](https://codepen.io/your-lesson4)    |
+| 5         | Página de perfil    | [Replit](https://replit.com/@your-lesson5)    |
+
 - Cuestionario: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
 - Compartir: #WebDevBeginners
 **¡Gracias por completar el curso!**
@@ -57,8 +59,17 @@ Universidad Peruana de Ciencias Aplicadas
 Carrera de Ingeniería de Software
 Período 202520
 1ASI0730 Aplicaciones Web
-NRC [Número de NRC]
+NRC [7454]
 **Nombre del equipo**: SmartStay
 **Líder del equipo**: Italo Sebastian Verona Flores
-**Integrantes del equipo**: [Nombres y Apellidos de cada participante]
-**Fecha de entrega**: 14 de novimebre del 2025
+**Integrantes del equipo**:
+
+|   Código   |     Apellidos      |     Nombres     |
+|:----------:|:------------------:|:---------------:|
+| U20221E617 |   Verona Flores    | Italo Sebastian |
+| U20231A816 | Valverde Portuguez | Natalia Ximena  |
+| U202019498 | Fernandez Garfias  | Alexander Piero |
+| u20191c464 |  Saavedra Angulo   |  Jose Jhonatan  |
+| U20201F051 |   Ramos Aguirre    | Aldair Joaquin  |
+
+**Fecha de entrega**: 14 de noviembre del 2025
