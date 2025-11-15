@@ -42,13 +42,14 @@ requiere descargas!** Solo abre tu navegador web.
 - **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/atomdragon1318/Fundamentos-de-Desarrollo-Web)
 - **Todas las Actividades Prácticas**:
 
-| Lección # | Actividad           | Empezar a Programar                           |
-|-----------|---------------------|-----------------------------------------------| 
-| 1         | Explorar Sitios Web | [CodePen](https://codepen.io/your-lesson1)    |
-| 2         | Primera página HTML | [CodePen](https://codepen.io/your-lesson2)    |
-| 3         | Añadir imágenes     | [JSFiddle](https://jsfiddle.net/your-lesson3) |
-| 4         | Estilo de la página | [CodePen](https://codepen.io/your-lesson4)    |
-| 5         | Página de perfil    | [Replit](https://replit.com/@your-lesson5)    |
+| Lección # | Actividad           | Empezar a Programar                                     |
+|-----------|---------------------|---------------------------------------------------------| 
+| 1         | Explorar Sitios Web | [CodePen](https://codepen.io/Italo-Verona/pen/KwzMvay)  |
+| 2         | Primera página HTML | [CodePen](https://codepen.io/Italo-Verona/pen/GgZqvWo)  |
+| 3         | Añadir imágenes     | [CodePen](https://codepen.io/Italo-Verona/pen/ByKzdzL)  |
+| 4         | Estilo de la página | [CodePen](https://codepen.io/Italo-Verona/pen/wBGWqme)  |
+| 5         | Centrando Elementos | [CodePen](https://codepen.io/Italo-Verona/pen/LENZjEa)  |
+| 6         | Mi perfil personal  | [CodePen] (https://codepen.io/Italo-Verona/pen/XJdKaNP) |
 
 - Cuestionario: [Pon a prueba tus conocimientos](https://docs.google.com/forms/d/e/1FAIpQLSfaLIvzTE0doy-9fstUoY97Tz5YEuaZGpAtb3DVgdS0XvrWaA/viewform?usp=dialog)
 - Compartir: #WebDevBeginners
