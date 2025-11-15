@@ -49,7 +49,7 @@ requiere descargas!** Solo abre tu navegador web.
 | 3         | Añadir imágenes     | [CodePen](https://codepen.io/Italo-Verona/pen/ByKzdzL)  |
 | 4         | Estilo de la página | [CodePen](https://codepen.io/Italo-Verona/pen/wBGWqme)  |
 | 5         | Centrando Elementos | [CodePen](https://codepen.io/Italo-Verona/pen/LENZjEa)  |
-| 6         | Mi perfil personal  | [CodePen] (https://codepen.io/Italo-Verona/pen/XJdKaNP) |
+| 6         | Mi perfil personal  | [CodePen](https://codepen.io/Italo-Verona/pen/XJdKaNP)  |
 
 - Cuestionario: [Pon a prueba tus conocimientos](https://docs.google.com/forms/d/e/1FAIpQLSfaLIvzTE0doy-9fstUoY97Tz5YEuaZGpAtb3DVgdS0XvrWaA/viewform?usp=dialog)
 - Compartir: #WebDevBeginners
