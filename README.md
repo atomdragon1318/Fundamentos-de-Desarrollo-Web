@@ -39,7 +39,7 @@ requiere descargas!** Solo abre tu navegador web.
 - **Consejos Clave**: Valida el código, explora la Documentación Web de MDN.
 - **Comparte tu Trabajo**: [Envía tu Creación](https://forms.gle/your-form)
 ## Recursos Adicionales
-- **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/yourusername/webdev-course-teamname)
+- **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/atomdragon1318/Fundamentos-de-Desarrollo-Web)
 - **Todas las Actividades Prácticas**:
 
 | Lección # | Actividad           | Empezar a Programar                           |
@@ -70,6 +70,5 @@ NRC [7454]
 | U20231A816 | Valverde Portuguez | Natalia Ximena  |
 | U202019498 | Fernandez Garfias  | Alexander Piero |
 | u20191c464 |  Saavedra Angulo   |  Jose Jhonatan  |
-| U20201F051 |   Ramos Aguirre    | Aldair Joaquin  |
 
-**Fecha de entrega**: 14 de noviembre del 2025
+**Fecha de entrega**: 16 de noviembre del 2025
