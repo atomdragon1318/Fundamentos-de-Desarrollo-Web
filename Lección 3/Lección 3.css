@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    background-color: #d1d3d4; 
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #3b54c5; 
+    padding: 25px;
+    text-align: center;
+    color: #e5e5e5;
+    font-size: 22px;
+}
+
+.texto {
+    background-color: #bfc2c4; 
+    margin: 20px;
+    padding: 20px;
+    border-radius: 12px;
+}

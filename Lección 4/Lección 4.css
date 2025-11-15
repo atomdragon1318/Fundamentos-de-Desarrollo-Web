@@ -1,0 +1,30 @@
+h1{
+  background-color: red;
+  color: blue;
+}
+
+.destacado{
+  color: black;
+  background-color: yellow;
+}
+
+#header{
+    background-color: black;
+    color: white;
+}
+
+p {
+    color: #2c3e50;           /* Color del texto */
+    font-family: Arial;       /* Tipo de letra */
+    font-size: 16px;          /* Tamaño del texto */
+    text-align: center;       /* Alineación */
+    line-height: 1.6;         /* Espacio entre líneas */
+}
+
+div {
+    background-color: #ecf0f1;  /* Color de fondo */
+    border: 2px solid #3498db;  /* Borde */
+    border-radius: 10px;        /* Esquinas redondeadas */
+    padding: 20px;              /* Espacio interno */
+    margin: 15px;               /* Espacio externo */
+}
